@@ -5,17 +5,6 @@ Hello everyone, this is a machine learning model deployment project where we hav
     We initially made the notebook file, with model code and some data preperations (preprocessing). Then we have took some chunks of code and put the necessary in web project. Then we have deployed it into Azure app service. 
     We initially made this project as a requirement for an internship at Indian Servers. We are now making it open to contribution. 
     
-    
-### Authors :
-    
-    Tejaswi Talluru - Machine Learning Model.
-    Krishna Priyatham Potluri - Flask Web Project and Azure Deployment.  (Myself)
-    
-### Contributors :
-
-    Busam Divya Prakash - Updated UI and added data visualization using tableau.
-    Rishabh Chauhan - Changed home page and shifted previous home page to prediction page.
-   
    ____________________________________________________
   
   ## Step by step guide to run, contribute, test in local machine.
